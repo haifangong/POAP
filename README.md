@@ -1,4 +1,4 @@
-# GSMC: Metric Learning for AMP Activity Prediction
+# POAP: Decoupling Antimicrobial Potency of Peptides from Off-target Toxicity via Deep Learning
 
 ## Overview
 This project develops a deep learning approach using a metric learning-guided Siamese neural network model for predicting antimicrobial activity differences among antimicrobial peptides (AMPs). Unlike traditional methods that focus on individual AMP activity, this model quantifies the activity differences between paired AMPs. This enhances prediction performance, especially in scenarios involving few-shot learning and data imbalance.
