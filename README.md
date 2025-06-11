@@ -3,7 +3,7 @@
 ## Overview
 This project develops a deep learning approach using a metric learning-guided Siamese neural network model for predicting antimicrobial activity differences among antimicrobial peptides (AMPs). Unlike traditional methods that focus on individual AMP activity, this model quantifies the activity differences between paired AMPs. This enhances prediction performance, especially in scenarios involving few-shot learning and data imbalance.
 
-Our model is further integrated into the GSCM pipeline, which supports deep mutational scanning to discover potent AMPs. Validation experiments confirm that our approach can identify peptides with significantly higher antimicrobial activity and lower toxicity compared to standard treatments.
+Our model is further integrated into the POAP pipeline, which supports deep mutational scanning to discover potent AMPs. Validation experiments confirm that our approach can identify peptides with significantly higher antimicrobial activity and lower toxicity compared to standard treatments.
 
 ## Features
 - Implementation of Siamese neural network for metric learning on AMPs.
